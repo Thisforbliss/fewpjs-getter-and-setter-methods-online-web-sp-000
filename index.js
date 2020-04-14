@@ -4,7 +4,7 @@ class Circle {
     this.radius= radius
   }
   
-  get diameter(){
+  get diameter(d){
     return this.radius *2
   }
   
